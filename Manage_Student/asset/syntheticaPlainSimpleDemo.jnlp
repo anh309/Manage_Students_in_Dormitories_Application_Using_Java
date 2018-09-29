@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<jnlp spec="1.0+" codebase="http://www.jyloo.com/downloads/public/synthetica" href="syntheticaPlainSimpleDemo.jnlp">
+
+  <information>
+    <title>Synthetica Simple Demo</title>
+    <vendor>Jyloo Software</vendor>
+    <homepage href="http://www.jyloo.com/" />
+
+    <description>Synthetica Look and Feel Demo</description>
+    <description kind="short">The demo presents the Synthetica Plain Look and Feel.</description>
+    <description kind="tooltip">Synthetica BlueLight Simple Demo</description>
+    <icon href="../../../images/logo_icon_32x32.png" width="32" height="32" />
+    <icon href="../../../images/logo_icon_48x48.png" width="48" height="48" />
+    <icon href="../../../images/logo_icon_64x64.png" width="64" height="64" />
+
+    <offline-allowed />
+  </information>
+
+  <security>
+    <all-permissions />
+  </security>
+
+  <resources>
+    <j2se version="1.8+" java-vm-args="--add-exports=java.desktop/sun.swing=ALL-UNNAMED --add-exports=java.desktop/sun.swing.table=ALL-UNNAMED --add-exports=java.desktop/sun.swing.plaf.synth=ALL-UNNAMED --add-opens=java.desktop/javax.swing.plaf.synth=ALL-UNNAMED --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.desktop/javax.swing.tree=ALL-UNNAMED --add-opens=java.desktop/java.awt.event=ALL-UNNAMED --add-exports=java.desktop/com.sun.java.swing.plaf.windows=ALL-UNNAMED --add-exports=java.desktop/sun.awt.shell=ALL-UNNAMED --add-exports=java.desktop/com.sun.awt=ALL-UNNAMED --add-exports=java.base/sun.security.action=ALL-UNNAMED" />
+    <jar href="syntheticaPlainSimpleDemo.jar" />
+  </resources>
+
+  <application-desc main-class="de.javasoft.synthetica.simpledemo.Demo" />
+
+</jnlp>
+
