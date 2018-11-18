@@ -1,4 +1,4 @@
-# Manage_Students_in_Motels_Application_Using_Java
+# Manage_Students_in_Domitories_Application_Using_Java
 
 ♠Chương trình java viết trên IDE eclise và dữ liệu truy xuất từ SQLServer
 ♠Đầu tiên, khởi chạy file "QuanLyNhaTro.SQL" trên SQLServer nhằm khởi tạo các quan hệ và dữ liệu
@@ -19,4 +19,4 @@
   - databaseName is QuanLyNhaTro
   - user is sa or another administrator account on our database
   - and you should have the password of this account ☺
- ♥Run "Main.java" and enjoy ☻
+ ♥Run "Main.java" and enjoy it☻
