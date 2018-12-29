@@ -29,8 +29,8 @@ ___
   
   ## Deployment
 - Run "Main.java" and enjoy it☻
- 
- ## Authors
+ ___
+ # Authors
 - Pham Xuan Anh
 - Vu Hoang Minh Huy
 - Vo Phi Khanh
