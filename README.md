@@ -1,4 +1,5 @@
 # Manage_Students_in_Domitories_Application_Using_Java
+# Ứng dụng java swing quản lý sinh viên trong các nhà trọ, ký túc xá
 ## Yêu cầu
 - Chương trình **java** viết trên IDE **eclise** và dữ liệu truy xuất từ **SQLServer**
 
