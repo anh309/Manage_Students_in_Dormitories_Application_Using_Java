@@ -1,7 +1,9 @@
 # Manage_Students_in_Domitories_Application_Using_Java
 
 ♠Chương trình java viết trên IDE eclise và dữ liệu truy xuất từ SQLServer
+
 ♠Đầu tiên, khởi chạy file "QuanLyNhaTro.SQL" trên SQLServer nhằm khởi tạo các quan hệ và dữ liệu
+
 ♠Import Project vào eclipse và thay đổi QUAN TRỌNG TRÊN "src/com.mixicoding.manageapp.database/Database.java":
   - Phương thức connect : jdbc:sqlserver://localhost:1433;databaseName=QuanLyNhaTro;user=sa;password=sa
   - Trong đó 1433 là port của SQLServer có lẽ bạn cần thay đổi 
