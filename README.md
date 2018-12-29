@@ -11,7 +11,7 @@
   - *databaseName* nên giữ nguyên vì đã khởi tạo trên SQLServer
   - user là `sa` hoặc quản trị khác 
   - password là mật khẩu tài khoản khai báo ở trên
-- Cấu hình thư viện / **configure build path** thêm file sqljdbc4.jar để có thư viện kết nối database
+- Cấu hình thư viện / **configure build path** thêm file `sqljdbc4.jar` để có thư viện kết nối database
 
 ## Triển khai chương trình
 - Run `Main.java` để thưởng thức ☺
