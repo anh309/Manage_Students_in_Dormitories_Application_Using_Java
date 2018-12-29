@@ -20,3 +20,6 @@
   - user is sa or another administrator account on our database
   - and you should have the password of this account ☺
  ♥Run "Main.java" and enjoy it☻
+ 
+ Teamates: Vu Hoang Minh Huy
+            Vo Phi Khanh
